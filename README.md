@@ -6,7 +6,7 @@
 * [Contribuição](#contribuição)
 
 ## Propósito
-Propósito deste projeto é verifica a possibilidade de se publicar multiplos apps em diferentes linguagens em um mesmo Web App no Azure.
+Propósito deste projeto é verificar a possibilidade de se publicar multiplos apps em diferentes linguagens em um mesmo Web Service no Azure.
 
 ## Executar
 1. Publicar repo em Web App Azure, e ir para index.hml.
